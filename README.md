@@ -5,7 +5,7 @@ KSEB office.
 
 
 #Feautures to add on <br>
-simple application 4 technicians <br>
+simple application for technicians <br>
 -> Technicians can receive messages as tasks. <br> 
 -> When a technician changes the status of a task to "Completed", the server verifies whether the transmission line is up and running. <br>
 -> <br>
